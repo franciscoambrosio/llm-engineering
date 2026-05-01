@@ -1,6 +1,6 @@
 # LLM Engineering
 
-Hands-on implementations of the core concepts every AI/ML engineer needs to know.
+Hands-on implementations of the core LLM-related concepts every AI engineer needs to know.
 Each module is a self-contained Python script with explanations in the code.
 
 ## Modules
