@@ -1,0 +1,12 @@
+.env
+*.env
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/
+.ipynb_checkpoints/
+*.ipynb  # notebooks may contain output with sensitive data — commit only .py files
+chroma/
+*.db
+*.sqlite
