@@ -10,3 +10,9 @@ dist/
 chroma/
 *.db
 *.sqlite
+lora_model/
+lora_classifier/
+lora_classifier_v2/
+fine_tuned_model/
+checkpoints/
+*.safetensors
